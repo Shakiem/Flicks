@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="black" type="color">#000000</item>
+    <item name="holo_blue" type="color">#33b5e5</item>
+    <item name="disabled_gray" type="color">#D3D3D3</item>
+    <item name="dark_gray" type="color">#5c5c5c</item>
+    <item name="warning_yellow" type="color">#EEBC62</item>
+    <item name="red" type="color">#FF0000</item>
+</resources>
